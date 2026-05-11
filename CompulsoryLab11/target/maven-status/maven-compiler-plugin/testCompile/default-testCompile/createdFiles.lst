@@ -1,0 +1,8 @@
+com\example\entity\QuestionTest.class
+com\example\entity\PlayerTest.class
+com\example\service\GameServiceTest.class
+com\example\repository\PlayerRepositoryTest.class
+com\example\repository\GameResultRepositoryTest.class
+com\example\GameServerIntegrationTest.class
+com\example\entity\GameResultTest.class
+com\example\repository\QuestionRepositoryTest.class

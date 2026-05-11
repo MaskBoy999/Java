@@ -1,0 +1,15 @@
+com\example\repository\GameResultRepository.class
+com\example\config\JpaConfig.class
+com\example\entity\Player.class
+ServerApplication\QuestionLoader.class
+ClientApplication\RunClients.class
+ServerApplication\ClientThread.class
+ServerApplication\GameSession.class
+com\example\repository\PlayerRepository.class
+ClientApplication\GameClient.class
+com\example\entity\Question.class
+org\example\Main.class
+ServerApplication\GameServer.class
+com\example\repository\QuestionRepository.class
+com\example\service\GameService.class
+com\example\entity\GameResult.class
